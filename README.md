@@ -32,7 +32,7 @@ filter: grayscale(100%);
 ## Ejercicio 3
 Crea dos reglas más.
 
-Aplica un borde de color #ff9b4 al primer gato de la galería, y un borde de color #00964b al último gato de la galería.
+Aplica un borde de color #ff9b40 al primer gato de la galería, y un borde de color #00964b al último gato de la galería.
 
 ## BONUS
 
