@@ -32,3 +32,6 @@ Crea dos reglas más.
 
 Aplica un borde de color #ff9b4 al primer gato de la galería, y un borde de color #00964b al último gato de la galería.
 
+## BONUS
+
+¿Cómo podríamos crear una regla que usando el [selector por atributo](https://www.w3schools.com/css/css_attribute_selectors.asp) nos ocultará el gato número 7? Puedes aplicar por ejemplo la propiedad CSS: `display: none`
