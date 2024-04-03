@@ -3,7 +3,7 @@
 Nos han pedido aplicar algunos estilos a esta galería de gatitos.
 La cosa es que **NO** podemos modificar el fichero index.html, y tendremos que usar selectores avanzados para conseguir nuestro propositos. Solamente puedes modificar el fichero styles.css, agregando nuevas reglas CSS
 
-[DEMO del aspecto final aproximado](https://github.com/omiras/selectores-avanzados)
+[DEMO del aspecto final aproximado](https://omiras.github.io/selectores-avanzados/)
 
 ## Ejercicio 1
 
